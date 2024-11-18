@@ -1,5 +1,5 @@
 <template>
-  <div>ddcccc</div>
+  <div>邓聪</div>
 </template>
 
 <script setup></script>
